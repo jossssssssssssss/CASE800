@@ -1,0 +1,15 @@
+streamlit == 1.13.0
+
+pandas == 1.4.2
+
+numpy == 1.21.5
+
+plotly == 5.10.0
+
+dash == 2.6.2
+
+plotly-express == 0.4.1
+
+DateTime == 4.7
+
+jupyter-dash == 0.4.2
